@@ -9,7 +9,8 @@ int main()
     }
     if(a>0)
     {
-        cout << "POSITIVE";
+        cout << "POSITIVE" << endl;
+        cout << "nice";
     }
     else
     {
